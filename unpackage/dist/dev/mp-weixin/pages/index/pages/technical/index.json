@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "number-text": "/components/NumberText/index"
-  },
-  "component": true
-}
