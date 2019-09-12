@@ -1,0 +1,1 @@
+<view class="number-text-container data-v-6f9578ce"><text class="number data-v-6f9578ce">{{$root.f0}}</text><text class="text data-v-6f9578ce">{{text}}</text></view>
